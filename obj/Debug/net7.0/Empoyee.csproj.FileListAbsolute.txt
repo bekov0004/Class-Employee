@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#\CsharpPractices\Day 19.12.22\Empoyee\bin\Debug\net7.0\Empoyee.exe
+C:\Users\user\Desktop\C#\CsharpPractices\Day 19.12.22\Empoyee\bin\Debug\net7.0\Empoyee.deps.json
+C:\Users\user\Desktop\C#\CsharpPractices\Day 19.12.22\Empoyee\bin\Debug\net7.0\Empoyee.runtimeconfig.json
+C:\Users\user\Desktop\C#\CsharpPractices\Day 19.12.22\Empoyee\bin\Debug\net7.0\Empoyee.dll
+C:\Users\user\Desktop\C#\CsharpPractices\Day 19.12.22\Empoyee\bin\Debug\net7.0\Empoyee.pdb
+C:\Users\user\Desktop\C#\CsharpPractices\Day 19.12.22\Empoyee\obj\Debug\net7.0\Empoyee.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\CsharpPractices\Day 19.12.22\Empoyee\obj\Debug\net7.0\Empoyee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\CsharpPractices\Day 19.12.22\Empoyee\obj\Debug\net7.0\Empoyee.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\CsharpPractices\Day 19.12.22\Empoyee\obj\Debug\net7.0\Empoyee.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\CsharpPractices\Day 19.12.22\Empoyee\obj\Debug\net7.0\Empoyee.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\CsharpPractices\Day 19.12.22\Empoyee\obj\Debug\net7.0\Empoyee.dll
+C:\Users\user\Desktop\C#\CsharpPractices\Day 19.12.22\Empoyee\obj\Debug\net7.0\refint\Empoyee.dll
+C:\Users\user\Desktop\C#\CsharpPractices\Day 19.12.22\Empoyee\obj\Debug\net7.0\Empoyee.pdb
+C:\Users\user\Desktop\C#\CsharpPractices\Day 19.12.22\Empoyee\obj\Debug\net7.0\Empoyee.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\CsharpPractices\Day 19.12.22\Empoyee\obj\Debug\net7.0\ref\Empoyee.dll
